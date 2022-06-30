@@ -1,0 +1,2 @@
+C:\Dev\Application\Calculator\Calculator\x64\Release\Calculator.exe
+D:\Calculator\Calculator\x64\Release\Calculator.exe
